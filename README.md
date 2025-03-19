@@ -38,7 +38,6 @@ Analyze customer buying patterns to enhance marketing strategies.
 Improve decision-making with real-time sales performance tracking.
 This project demonstrated the power of Business Intelligence in sales analytics, showcasing how Power BI can transform raw business data into actionable insights for strategic decision-making.
 
-PBIX FILE :https://drive.google.com/file/d/1nZpOJ5au-N4J_0ksRPje30zKLFfUd3J9/view?usp=sharing
+PBIX FILE :https://drive.google.com/file/d/1pAM57Bwyh1Rlm0_Cb_43vNgXBtvy93tZ/view?usp=sharing
 
-
-PDF FILE :https://drive.google.com/file/d/1HxQxswhbo5i8ZlKu4PjVvbEBhj7UdivE/view?usp=sharing
+PDF FILE :https://drive.google.com/file/d/1Q0gNqO28CZjSVoJowZhbzefV6nPkQKQI/view?usp=sharing
